@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Delhi_Tour_Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_food">Street Food</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_shopping">Street Shopping</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_tourist">Tourist Spots</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_restraunts">Restaurants</string>
+
+    <string name="touristNameA">The Great India Place</string>
+    <string name="touristDetailsA">One of the first and biggest malls in New Delhi</string>
+    
+    <string name="touristNameB">Akshardham Temple</string>
+    <string name="touristDetailsB"> It is a huge temple worshipping Lord Swami Narayan</string>
+    
+    <string name="touristNameC">India Gate</string>
+    <string name="touristDetailsC">India Gate is located here. A monument for the heroes that fought for the independence of India</string>
+    
+    <string name="RestaurantNameA">The Big Chill Cafe</string>
+    <string name="ResraurantDetailsA">It is a nice restaurant at the DLF Mall</string>
+
+    <string name="RestaurantNameB">Pind Baluchi</string>
+    <string name="RestaurantDetailsB">It is a good restaurant that serves Punjabi Cuisine at the GIP Mall</string>
+
+    <string name="RestaurantNameC">HaldiRams</string>
+    <string name="RestaurantDetailsC">It is one oof the best food chain restaurants  in Delhi and serves many items. The food quality and the options are pretty good here</string>
+    
+    <string name="ShoppingNameA">Chandni Chowk</string>
+    <string name="ShoppingDetailsA">Located in Old delhi, this place provides fashion options ranging from traditional to western modern </string>
+    
+    <string name="ShoppingNameB">Lajpat Nagar</string>
+    <string name="ShoppingDetailsB">A very good shoppin place for clothes which are cheap yet appealing</string>
+
+    <string name="FoodNameA">Paranthe wali Gail</string>
+    <string name="FoodDetailsA">Loacted in Chandni Chowk, this place offers probably the best paranthas of various varities in the world!</string>
+
+    <string name="FoodNameB">Gol Gappe</string>
+    <string name="FoodDetailsB">Sweet, spicy, watery and yest crispy delicious shacks popular in India</string>
+
+    <string name="FoodNameC">Samosa</string>
+    <string name="FoodDetailsC">It is a blend of spicy potato mixture covered with crispy layer. One of the most delicious snacks. It tastes best with Indian Tea</string>
+    
+
+
+</resources>
